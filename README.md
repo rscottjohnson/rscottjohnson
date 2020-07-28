@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my [Master of Science in Software Engineering at East Carolina University](https://cet.ecu.edu/csci/graduate-programs/ms-in-software-engineering/).
+- 🔭 I’m currently working on my [Master of Science in Software Engineering at East Carolina University](https://cet.ecu.edu/csci/graduate-programs/ms-in-software-engineering/) (May '21).
 - 🌱 I’m currently learning [C#](https://www.packtpub.com/mobile/c-8-0-and-net-core-3-0-modern-cross-platform-development-fourth-edition) (for work), as well as [Vue.js](https://www.packtpub.com/web-development/vuejs-2-web-development-projects) and [Ruby](https://www.railstutorial.org/book) (on my own time).
 - 👯 I’m looking to collaborate on a project (or projects) where I can grow both my experience and knowledge.
 - 🤔 I’m interested in learning how to contribute to open source projects.
