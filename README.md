@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on my [Master of Science in Software Engineering at East Carolina University](https://cet.ecu.edu/csci/graduate-programs/ms-in-software-engineering/) (May '21).
-- 🌱 I’m currently learning Java (for school), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) (for work), as well as [Vue.js](https://vuejs.org) and [Ruby on Rails](https://www.railstutorial.org/book) (on my own time).
+- 🌱 I’m currently learning [Ruby](https://www.ruby-lang.org/en/) and [Rails](https://rubyonrails.org) (for work).
 - 👯 I’m looking to collaborate on a project (or projects) where I can grow both my experience and knowledge.
 - 🤔 I’m interested in learning how to contribute to open source projects.
 
