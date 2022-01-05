@@ -1,6 +1,7 @@
 ### Hi, I'm Scott 👋
-- 🔭 I’ve recently completed my [Master of Science in Software Engineering at East Carolina University](https://cet.ecu.edu/csci/graduate-programs/ms-in-software-engineering/) which I decided to pursue after completing the [Coding Bootcamp at UNC-Chapel Hill](https://bootcamp.unc.edu/coding/).
-- 👯 I’m open to collaborate on a project (or projects) where I can grow both my experience and knowledge.
+- 🔭 Alum of the [Software Engineering program at East Carolina University](https://cet.ecu.edu/csci/graduate-programs/ms-in-software-engineering/) and the [Coding Bootcamp at UNC-Chapel Hill](https://bootcamp.unc.edu/coding/).
+- In a prior life, I used my MBA to do Finance things.
+- Open to collaborate on a project where I can grow both my experience and knowledge.
 - 🤔 I’m interested in learning how to contribute to open source projects.
 
 <!--
