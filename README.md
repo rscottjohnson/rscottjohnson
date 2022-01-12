@@ -1,6 +1,6 @@
 ### Hi, I'm Scott 👋
 - 🔭 Alum of the [Software Engineering program at East Carolina University](https://cet.ecu.edu/csci/graduate-programs/ms-in-software-engineering/) and the [Coding Bootcamp at UNC-Chapel Hill](https://bootcamp.unc.edu/coding/).
-- In a prior life, I used my MBA to do Finance things and my BSIE to to process improvement things.
+- In a prior life, I used my MBA to do Finance things and my BSIE to do process improvement things.
 - Open to collaborate on a project where I can grow both my experience and knowledge.
 - 🤔 I’m interested in learning how to contribute to open source projects.
 
