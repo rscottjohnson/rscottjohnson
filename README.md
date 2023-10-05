@@ -4,10 +4,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@rscottjohnson2-F5F5F5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/rscottjohnson2/)
 
 ## About me
-- 🔭 Alum of the [Software Engineering program at East Carolina University](https://cet.ecu.edu/csci/graduate-programs/ms-in-software-engineering/) and the [Coding Bootcamp at UNC-Chapel Hill](https://bootcamp.unc.edu/coding/).
-- In prior lives, I used my MBA to do Finance things and my BS Industrial Engineering to do process improvement things.
-- Open to collaborate on a project where I can grow both my experience and knowledge.
-- 🤔 I’m interested in learning how to contribute to open source projects.
+- Alum of the [Software Engineering program at East Carolina University](https://cet.ecu.edu/csci/graduate-programs/ms-in-software-engineering/) and the [Coding Bootcamp at UNC-Chapel Hill](https://bootcamp.unc.edu/coding/)
+- In prior lives, I used my [MBA](https://business.ecu.edu/grad/mba-degrees/) to do Finance things and my [BS Industrial Engineering](https://imse.statler.wvu.edu) to do process improvement things
+- Always open to collaborate on projects where I can grow my experience and knowledge
 
 ## Where I work
 
